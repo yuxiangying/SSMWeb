@@ -16,7 +16,7 @@ public class UserInfo {
     private String password;//用户密码
     private String username;//用户名
     private String role;//用户角色
-    private Integer status;
+    private Integer status;//用户角色
     private Date regTime;
     private String regIp;
 
