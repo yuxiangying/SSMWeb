@@ -12,7 +12,7 @@ import java.util.Date;
  */
 public class UserInfo {
     private long id;//用户id
-    private String email;
+    private String email;//用户email
     private String password;
     private String username;
     private String role;
