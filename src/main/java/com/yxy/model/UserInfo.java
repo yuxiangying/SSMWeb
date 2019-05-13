@@ -11,7 +11,7 @@ import java.util.Date;
  * @date Date : 2019年05月10日 15:16
  */
 public class UserInfo {
-    private long id;
+    private long id;//用户id
     private String email;
     private String password;
     private String username;
